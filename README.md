@@ -49,4 +49,9 @@ products.
     This is a very robust solution and it has the potential to be very 
 powerful once trained on huge amount of data.
   </li>
+  <li>
+    Please Refer to the project report to understand how we have implemented and how much 
+    promising our model is. It will work not only for E-Commerce but for any large scale 
+    Recommendation Systems. 
+  </li>
 </ul>

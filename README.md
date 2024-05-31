@@ -1,7 +1,7 @@
 <h3>Transformer-based-E-Commerce-Recommendation-System-A-Foundational-Model</h3>
 <hr>
 
-This was part of our final Major Project for the Course AI-705(Recommendation Systems)
+<h4>This was part of our final Major Project for the Course AI-705(Recommendation Systems)</h4>
 
 We present to you our context-aware product recommendation system solution which
 redefines the capabilities of traditional systems by enhancing  contextual relevance. 

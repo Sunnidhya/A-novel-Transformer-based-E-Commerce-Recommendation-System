@@ -8,8 +8,8 @@ redefines the capabilities of traditional systems by enhancing  contextual relev
 Unlike conventional systems that require users to enter specific product queries to 
 retrieve search results confined to a particular type, our approach allows users to 
 express their needs in natural language. For instance, users can input requests like 
-**"Suggest me some good handmade products" or "I have a birthday party tomorrow, 
-suggest me some products."** Our advanced model, trained on a dataset of approximately 
+<b>"Suggest me some good handmade products" or "I have a birthday party tomorrow, 
+suggest me some products."</b> Our advanced model, trained on a dataset of approximately 
 54,000 products spanning various categories, comprehends the context of these inputs 
 and recommends products accordingly.
 <ul>

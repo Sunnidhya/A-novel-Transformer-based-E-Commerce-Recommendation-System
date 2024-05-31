@@ -3,15 +3,15 @@
 
 <h4>This was part of our final Major Project for the Course AI-705(Recommendation Systems)</h4>
 
-<p>We present to you our context-aware product recommendation system solution which
+<h6>We present to you our context-aware product recommendation system solution which
 redefines the capabilities of traditional systems by enhancing  contextual relevance. 
 Unlike conventional systems that require users to enter specific product queries to 
 retrieve search results confined to a particular type, our approach allows users to 
-express their needs in natural language. For instance, users can input requests like 
+express their needs in natural language. For instance, users can input requests like</h6> 
 <b>"Suggest me some good handmade products" or "I have a birthday party tomorrow, 
-suggest me some products."</b> Our advanced model, trained on a dataset of approximately 
+suggest me some products."</b> <h6>Our advanced model, trained on a dataset of approximately 
 54,000 products spanning various categories, comprehends the context of these inputs 
-and recommends products accordingly.</p>
+and recommends products accordingly.</h6>
 <h6>
 <ul>
   <li>Our context-aware recommendation system offers 

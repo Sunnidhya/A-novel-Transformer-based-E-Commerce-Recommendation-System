@@ -1,4 +1,4 @@
-<h3>Transformer-based-E-Commerce-Recommendation-System-A-Foundational-Model</h3>
+<h3>TransRec: A novel Transformer based E-Commerce Recommender</h3>
 <hr>
 
 <h4>This was part of our final Major Project for the Course AI-705(Recommendation Systems)</h4>

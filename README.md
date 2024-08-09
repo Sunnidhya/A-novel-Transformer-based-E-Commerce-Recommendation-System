@@ -39,7 +39,7 @@ enhancing revenue streams and profitability for e-commerce
 platforms.
   </li>
   <li>
-    Our solution uses the product description, features, 
+    Our solution uses the product description, title,  features, 
 category data which is preprocessed and converted to a meaningful 
 sentence on which we then apply the power of TF-IDF algorithm
 to give a kickstart with contexts to a pre-trained BERT transformer
